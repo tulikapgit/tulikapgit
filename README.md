@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+🔭 I’m currently working on DevOps Essentials
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on DevOps
+- 🤔 I’m looking for help with Terraform
+- 💬 Ask me about AIS
+- 📫 How to reach me: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:
 <!--
 **tulikapgit/tulikapgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
