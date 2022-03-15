@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on DevOps Essentials
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Blazor
 - 👯 I’m looking to collaborate on DevOps
 - 🤔 I’m looking for help with Terraform
 - 💬 Ask me about AIS
